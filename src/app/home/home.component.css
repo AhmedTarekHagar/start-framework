@@ -1,0 +1,7 @@
+img {
+    height: 40vh;
+}
+
+:host ::ng-deep .custom {
+    background-color: #ffffff;
+}

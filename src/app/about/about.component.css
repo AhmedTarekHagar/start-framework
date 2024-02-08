@@ -1,0 +1,7 @@
+section {
+    height: 85vh;
+}
+
+:host ::ng-deep .custom {
+    background-color: #ffffff;
+}
