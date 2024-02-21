@@ -3,5 +3,5 @@ section {
 }
 
 :host ::ng-deep .custom {
-    background-color: #ffffff;
+    background-color: var(--light-color);
 }
